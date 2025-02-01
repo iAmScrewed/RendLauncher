@@ -10,7 +10,7 @@ Edit the RendLauncher.ini and enter in your own details (If you don't have it la
 name = NAME \
 faction = 1,2,3 \
 ipport = URL/IP:PORT \
-delay = 15 \
+delay = 15 
 
 
 The injector used is from https://github.com/craig-rylance/dll-injector.
