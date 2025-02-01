@@ -6,11 +6,11 @@ If your Game still closes you may need to set the Firewall Unblock delay to some
 
 Edit the RendLauncher.ini and enter in your own details (If you don't have it launching RendLauncher.exe will generate one)
 
-[Settings]
-name = NAME
-faction = 1,2,3
-ipport = URL/IP:PORT
-delay = 15
+[Settings] \
+name = NAME \
+faction = 1,2,3 \
+ipport = URL/IP:PORT \
+delay = 15 \
 
 
 The injector used is from https://github.com/craig-rylance/dll-injector.
