@@ -17,6 +17,11 @@ The injector used is from https://github.com/craig-rylance/dll-injector.
 
 The DLL file was from UUE4U (google it).
 
+You may get a error complaining about a Temp folder, I can't figure it out and it doesn't stop the program from working. \
+New to githubs workings but I think other people can contribute? feel free to fix it. \
+Would like to make it so the user input fields write to the ini file may fix that in the future.
+
+
 The PyCode was from Grok.
 
 
